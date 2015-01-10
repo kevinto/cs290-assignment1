@@ -1,4 +1,5 @@
 Name: Kevin To
+Location: San Jose, CA
 
 Programming Background:
 - I currently work as a software engineer with predominently backend software. The languages I typically code in is Microsoft FoxPro and C#. I occasionally get to use javascipt.
