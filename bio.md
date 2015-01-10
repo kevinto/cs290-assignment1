@@ -9,3 +9,8 @@ Hobbies:
 
 Education:
 - I have a bachelor's degree in Nutritional Science from UC Berkeley.
+
+Favorite movies:
+1. Shawshank Redemption
+2. Good will hunting
+3. Gladiator
